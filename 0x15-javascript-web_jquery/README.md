@@ -62,6 +62,7 @@ before implementing it into our hBnB project.
   to update the text color of the HTML tag `HEADER` to red (`#ff0`).
   * Works when imported in the `HEAD` tag.
 
+  
 * **11. List, add, remove**
   * [101-script.js](./101-script.js): JavaScript script that uses jQuery to add, remove,
   and clear `LI` elements from a list based on user click input.
